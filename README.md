@@ -440,4 +440,93 @@ Circular Linked List Operations:
 7. Delete at Position
 8. Display
 9. Exit
-   
+
+Ex(3a) -------------------------- OUTPUT Stack Operations Menu: Push Pop Display Exit Enter your choice: 1 Enter element to push: 10 Element pushed: 10 Stack Operations Menu: Push Pop Display Exit Enter your choice: 1 Enter element to push: 20 Element pushed: 20 Stack Operations Menu: Push Pop Display Exit Enter your choice: 3 Stack elements: 20 10 Stack Operations Menu: Push Pop Display Exit Enter your choice: 2 Popped element: 20 Stack Operations Menu: Push Pop Display Exit Enter your choice: 3 Stack elements: 10 Stack Operations Menu: Push Pop Display Exit Enter your choice: 4
+
+Ex(3b) ---------------------------- OUTPUT Queue Operations Menu: Enqueue Dequeue Display Exit Enter your choice: 1 Enter element to enqueue: 10 Element enqueued: 10 Queue Operations Menu: Enqueue Dequeue Display Exit Enter your choice: 1 Enter element to enqueue: 20 Element enqueued: 20 Queue Operations Menu: Enqueue Dequeue Display Exit Enter your choice: 1 Enter element to enqueue: 30 Element enqueued: 30 Queue Operations Menu: Enqueue Dequeue Display Exit Enter your choice: 3 Queue elements: 10 20 30 Queue Operations Menu: Enqueue Dequeue Display Exit Enter your choice: 2 Dequeued element: 10 Queue Operations Menu: Enqueue Dequeue Display Exit Enter your choice: 3 Queue elements: 20 30 Queue Operations Menu: Enqueue Dequeue Display Exit Enter your choice: 4
+
+Ex(4a) ---------------------------- OUTPUT Stack Operations Menu:
+
+Push
+Pop
+Display
+Exit Enter your choice: 1 Enter element to push: 10 Element pushed: 10 Stack Operations Menu:
+Push
+Pop
+Display
+Exit Enter your choice: 1 Enter element to push: 20 Element pushed: 20 Stack Operations Menu:
+Push
+Pop
+Display
+Exit Enter your choice: 1 Enter element to push: 30 Element pushed: 30 Stack Operations Menu:
+Push
+Pop
+Display
+Exit Enter your choice: 3 Stack elements: 30 20 10 Stack Operations Menu:
+Push
+Pop
+Display
+Exit Enter your choice: 2 Popped element: 30 Stack Operations Menu:
+Push
+Pop
+Display
+Exit Enter your choice: 3 Stack elements: 20 10 Stack Operations Menu:
+Push
+Pop
+Display
+Exit Enter your choice: 4
+Ex(4b) ---------------------------- OUTPUT Queue Operations Menu:
+
+Enqueue
+Dequeue
+Display
+Exit Enter your choice: 1 Enter element to enqueue: 10 Element enqueued: 10 Queue Operations Menu:
+Enqueue
+Dequeue
+Display
+Exit Enter your choice: 1 Enter element to enqueue: 20 Element enqueued: 20 Queue Operations Menu:
+Enqueue
+Dequeue
+Display
+Exit Enter your choice: 1 Enter element to enqueue: 30 Element enqueued: 30 Queue Operations Menu:
+Enqueue
+Dequeue
+Display
+Exit Enter your choice: 3 Queue elements: 10 20 30 Queue Operations Menu:
+Enqueue
+Dequeue
+Display
+Exit Enter your choice: 2 Dequeued element: 10 Queue Operations Menu:
+Enqueue
+Dequeue
+Display
+Exit Enter your choice: 3 Queue elements: 20 30 Queue Operations Menu:
+Enqueue
+Dequeue
+Display
+Exit Enter your choice: 4
+Ex(5) ---------------------------- OUTPUT ``BST MENU```
+
+Create a BST
+Search
+BST Traversals:
+Exit Enter your choice: 1 Enter the number of elements: 12 Enter the value: 6 Enter the value: 9 Enter the value: 5 Enter the value: 2 Enter the value: 8 Enter the value: 15 Enter the value: 24 Enter the value: 14 Enter the value: 7 Enter the value: 8 Enter the value: 5 Enter the value: 2 ---BST MENU---
+Create a BST
+Search
+BST Traversals:
+Exit Enter your choice: 3 The Preorder display: 6 5 2 9 8 7 15 14 24 The Inorder display : 2 5 6 7 8 9 14 15 24 The Postorder display: 2 5 7 8 14 24 15 9 6 ---BST MENU---
+Create a BST
+Search
+BST Traversals:
+Exit Enter your choice: 2 Enter Element to be searched: 66 Key element is not found in the BST ---BST MENU---
+Create a BST
+Search
+BST Traversals:
+Exit Enter your choice: 2 Enter Element to be searched: 14 Key element is present in BST ----BST MENU----
+Create a BST
+Search
+BST Traversals:
+Exit Enter your choice: 4
+Ex(6) ---------------------------- OUTPUT Preorder traversal of the constructed AVL tree is 9 5 0 -1 1 2 6 10 11
+
+Preorder traversal after deletion of 10 9 5 0 -1 1 2 6 11
